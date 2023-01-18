@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xdcnx
-- 👀 I’m interested in CTFs as a means to learn about security
-- 🌱 I’m currently learning about binary exploitation, reverse engineering and python/shell scripts
+- 👀 I’m interested in CTFs as a means to learn about information security
+- 🌱 I’m currently learning about binary exploitation, web scraping and python/shell scripts
 - 📫 How to reach me: ricardouqueio@gmail.com
 
 <!---
