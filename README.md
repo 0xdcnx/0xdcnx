@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xdcnx
+- 👋 Hi, I’m Ricardo Uqueio 
 - 👀 I’m interested in CTFs as a means to learn about information security
 - 🌱 I’m currently learning about binary exploitation, web scraping and python/shell scripts
 - 📫 How to reach me: ricardouqueio@gmail.com
